@@ -8,6 +8,5 @@ Pueden hacer lo que quieran...
 
 ### Actualizado desde Github
 
-Editado desde Github
+## Estos cambios son desde el equipo local
 
-### Hello World
