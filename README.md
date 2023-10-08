@@ -11,3 +11,17 @@ Pueden hacer lo que quieran...
 
 ## Estos cambios son desde el equipo local
 
+# h1
+## h2
+### h3
+#### h4
+##### h5
+###### h6
+
+* a
+* b
+* c
+* d
+  * d1
+  * d2
+  * d3   
