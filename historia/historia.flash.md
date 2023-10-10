@@ -1,0 +1,3 @@
+# Historia de flash
+
+The Flash is a 2023 American superhero film based on the DC Comics character of the same name. Produced by Warner Bros. Pictures, DC Studios, Double Dream, and the Disco Factory, and distributed by Warner Bros. Pictures, it is the 13th installment in the DC Extended Universe (DCEU). The film was directed by Andy Muschietti from a screenplay by Christina Hodson, based on a story by Joby Harold and the writing team of John Francis Daley and Jonathan Goldstein. It stars Ezra Miller as Barry Allen / The Flash alongside Sasha Calle, Michael Shannon, Ron Livingston, Maribel Verdú, Kiersey Clemons, Antje Traue, and Michael Keaton. In the film, Barry travels back in time to prevent his mother's death, which brings unintended consequences.
